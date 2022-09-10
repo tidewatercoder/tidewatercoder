@@ -1,4 +1,3 @@
 - Hi, I’m @tidewatercoder
 - The languages I am interested in learning are python, c++, and java.
-- Currently I am in a cybersecurity course that taught me python and one of the repository has a script that I coded for a homework assignment.
 - I am hoping to become a python developer and learn a variety of languages.
