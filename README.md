@@ -1,3 +1,6 @@
 - Hi, I’m @tidewatercoder
-- The languages I am interested in learning are python, c++, and java.
-- I am hoping to become a python developer and learn a variety of languages.
+- I have found my interest in coding after attending a cybersecurity bootcamp and have been researching and practicing to improve my skils further.
+- I was initially taught python during the bootcamp but have been studying other languages as well, these languages include:
+    - C++
+    - C#
+    - Java
